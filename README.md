@@ -7,7 +7,7 @@ uv sync
 
 ## run
 ```bash
-uv run dnsmos_local.py
+uv run dnsmos_local.py -t .\test\ -o sample.csv
 ```
 
 ## ライセンス
